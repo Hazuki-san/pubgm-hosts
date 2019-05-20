@@ -4,7 +4,7 @@
 0.0.0.0 203.205.128.159
 0.0.0.0 203.205.138.242
 0.0.0.0 203.205.179.215
-0.0.0.0    apt.saurik.com
+0.0.0.0 apt.saurik.com
 0.0.0.0 aeventlog.beacon.qq.com
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 android.bugly.qq.com
@@ -347,6 +347,9 @@
 1.1.1.0 www.uyunad.com
 1.1.1.0 yun-hl.3g.qq.com
 1.1.1.1 sq12.pg.qq.com
+1.4.2.0 dns.weixin.qq.com
+1.4.2.0 oth.eve.mdt.qq.com
+1.4.2.0 thirdwx.qlogo.cn
 2.19.19.190 e5956.f.akamaiedge.net
 2.20.7.147 e6156.dscf.akamaiedge.net
 3.3.3.3 dlied1.qq.com
@@ -1656,6 +1659,7 @@
 42.0.13.37  vmp.qq.com:80
 42.0.13.37  weixin.qq.com
 42.0.13.37  www.dingd.cn
+42.0.13.37 .4.1375135419.igame.gcloudcs.com
 42.0.13.37 a1.huanqiumil.com
 42.0.13.37 a1.huiqituan.com
 42.0.13.37 a1.img.static.youmi.net
@@ -4080,6 +4084,7 @@
 42.0.13.37 ed.sczhilong.cn
 42.0.13.37 edesf.xyzxmark.cn
 42.0.13.37 edge-mqtt-mini-shv-01-sof1.facebook.com
+42.0.13.37 edge-mqtt-mini-shv-01-sof1.facebook.com:https
 42.0.13.37 edge.quantserve.com
 42.0.13.37 edge.sharethis.com
 42.0.13.37 edge.yunjiasu.com
@@ -5272,6 +5277,7 @@
 42.0.13.37 loadm.exelator.com
 42.0.13.37 lobby.igamecj.com
 42.0.13.37 lobby.igamecj.com/17500
+42.0.13.37 lobby.igamecj.com:17500
 42.0.13.37 local
 42.0.13.37 local.qq.com
 42.0.13.37 localhost
@@ -6596,6 +6602,7 @@
 42.0.13.37 qos.gcloud.qq.com
 42.0.13.37 qos.hk.gcloudcs.com
 42.0.13.37 qos.hk.gcloudcs.com/8011
+42.0.13.37 qos.hk.gcloudcs.com:8011
 42.0.13.37 qp.yunanfuwuqi.com
 42.0.13.37 qq.8368661.com
 42.0.13.37 qq.cf.com
@@ -7313,11 +7320,15 @@
 42.0.13.37 sobar.baidu.com
 42.0.13.37 sod.onelink.me
 42.0.13.37 sof02s21-in-f170.1e100.net
+42.0.13.37 sof02s21-in-f170.1e100.net:https
 42.0.13.37 sof02s27-in-f10.1e 100.net
 42.0.13.37 sof02s27-in-f10.1e 100.nethttps
 42.0.13.37 sof02s31-in-f10.1e100.net
+42.0.13.37 sof02s31-in-f10.1e100.net:https
 42.0.13.37 sof02s32-in-f2.1e100.net
+42.0.13.37 sof02s32-in-f2.1e100.net:https
 42.0.13.37 sof02s34-in-f3.1e100.net
+42.0.13.37 sof02s34-in-f3.1e100.net:https
 42.0.13.37 soft.chaomeng8.com
 42.0.13.37 soft.tbs.imtt.qq.com
 42.0.13.37 soft.tbs.imtt.tc.qq.com
@@ -10468,6 +10479,7 @@
 127.0.0.1 vmp.qq.com
 127.0.0.1 www.googleapis.com
 127.0.0.4 sdi.3g.qq.com
+127.0.1 182.254.116.117
 127.0.5.1 ragnarock game
 127.1.1.0 pubg.mobile.com
 127.1.1.1 google.com
@@ -12207,6 +12219,7 @@
 203.205.143.142 mp.weixin.qq.com
 203.205.143.159 newcomm.weixin.qq.com
 203.205.146.14 log.tbs.qq.com
+203.205.146.23 beacon.sparta.mig.tencent-cloud.net
 203.205.146.45 android.bugly.qq.com
 203.205.146.45 rqd.sparta.mig.tencent-cloud.net
 203.205.147.153 cgiaccess.tcdn.qq.com
@@ -13032,23 +13045,11 @@
 226.59.232.147 vv.video.qq.com
 226.59.232.147 www.googleapis.com
 226.59.232.147 youtube.com
-255.255.255.255	broadcasthost
 255.255.255.255 broadcasthost
-127.0.1 182.254.116.117
-::1             ip6-localhost
-::1             localhost
-::1      localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
-::1 localhost
-::6                   ip6-localhost
-::6               ip6-localhost
-1.4.2.0 dns.weixin.qq.com
-fe80::1%lo0 localhost
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-1.4.2.0 oth.eve.mdt.qq.com
-1.4.2.0 thirdwx.qlogo.cn
