@@ -7,13 +7,13 @@
 0.0.0.0 203.205.138.240
 0.0.0.0 203.205.138.242
 0.0.0.0 203.205.179.215
-0.0.0.0 apt.saurik.com
 0.0.0.0 aeventlog.beacon.qq.com
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 android.clients.google.com
 0.0.0.0 apm.wetest.qq.com
 0.0.0.0 app-measurement.com
+0.0.0.0 apt.saurik.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 c.isdspeed.qq.com
 0.0.0.0 cdn.watest.qq.com
@@ -79,7 +79,6 @@
 0.0.0.0 www.markmonitor.com
 0.0.0.0 wx.qlogo.cn
 0.0.0.0 yyb.eve.mdt.qq.com
-0.0.0.0android.bugly.qq.com
 0.0.0.1 111.13.148.220
 0.0.0.1 120.198.199.30
 0.0.0.1 123.125.54.238
@@ -1065,6 +1064,7 @@
 42.0.13.37 101.226.103.110:80
 42.0.13.37 101.226.103.110:443
 42.0.13.37 101.226.103.110:10012
+42.0.13.37 103.41.21.241
 42.0.13.37 104.81.130.194
 42.0.13.37 104.81.130.194:443
 42.0.13.37 104.93.100.15:80
