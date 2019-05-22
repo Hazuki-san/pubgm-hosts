@@ -3084,6 +3084,7 @@
 42.0.13.37 change.qq.com
 42.0.13.37 channel.fanxing.kugou.com
 42.0.13.37 chaojilamei.cn
+42.0.13.37 check.googlezip.net
 42.0.13.37 check.ptlogin2.qq.com
 42.0.13.37 chemdraw.com
 42.0.13.37 chemdraw.com.cn
@@ -6183,6 +6184,7 @@
 42.0.13.37 ossweb-img.qq.com
 42.0.13.37 osupdateservice.yunos.com
 42.0.13.37 otf.msn.com
+42.0.13.37 oth.eve.mdt.qq.co
 42.0.13.37 oth.eve.mdt.qq.com
 42.0.13.37 oth.eve.mdt.qq.com42.0.13.37 mp.weixin.qq.com
 42.0.13.37 oth.eve.mdt.qq.com/8081
@@ -13046,8 +13048,6 @@
 226.59.232.147 tpns.qq.com
 226.59.232.147 vmp.qq.com
 226.59.232.147 vv.video.qq.com
-226.59.232.147 www.googleapis.com
-226.59.232.147 youtube.com
 255.255.255.255 broadcasthost
 ::1 ip6-localhost
 ::1 ip6-loopback
