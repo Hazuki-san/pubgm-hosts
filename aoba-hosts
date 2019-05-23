@@ -10,7 +10,6 @@
 0.0.0.0 aeventlog.beacon.qq.com
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 android.bugly.qq.com
-0.0.0.0 android.clients.google.com
 0.0.0.0 apm.wetest.qq.com
 0.0.0.0 app-measurement.com
 0.0.0.0 apt.saurik.com
@@ -96,7 +95,6 @@
 0.0.0.1 als.baidu.com
 0.0.0.1 analytics.rayjump.com
 0.0.0.1 android.bugly.qq.com
-0.0.0.1 android.clients.google.com
 0.0.0.1 api.dingd.cn
 0.0.0.1 api.os.qiku.com
 0.0.0.1 api.share.baidu.com
@@ -143,7 +141,6 @@
 0.0.0.1 game.eve.mdt.qq.com
 0.0.0.1 game.str.mdt.qq.com
 0.0.0.1 gcloud.qq.com
-0.0.0.1 google.com
 0.0.0.1 guang.zi.nb.com
 0.0.0.1 hm.baidu.com
 0.0.0.1 i.gtimg.cn
@@ -222,9 +219,7 @@
 0.0.0.1 wspeed.qq.com
 0.0.0.1 www.baidu.com
 0.0.0.1 www.dingd.cn
-0.0.0.1 www.googleapis.com
 0.0.0.1 www.qq.com
-0.0.0.1 youtube.com
 0.0.0.1 yun-hl.3g.qq.com
 0.0.0.1 yyb.eve.mdt.qq.com
 1.1.1.0 42.0.13.37
@@ -239,7 +234,6 @@
 1.1.1.0 alog.umeng.com
 1.1.1.0 analytics.rayjump.com
 1.1.1.0 android.bugly.qq.com
-1.1.1.0 android.clients.google.com
 1.1.1.0 android.rqd.qq.com
 1.1.1.0 api.ribaoapi.com
 1.1.1.0 api.tuisong.baidu.com
@@ -314,14 +308,10 @@
 1.1.1.0 nsclickvideo.baidu.com
 1.1.1.0 openmobile.qq.com
 1.1.1.0 oth.eve.mdt.qq.com
-1.1.1.0 oth.eve.mdt.qq.com:8080
 1.1.1.0 oth.str.mdt.qq.com
-1.1.1.0 oth.str.mdt.qq.com:8080
 1.1.1.0 pc.videoclick.baidu.com
 1.1.1.0 pg.qq.com
 1.1.1.0 pingma.qq.com
-1.1.1.0 pingma.qq.com:80
-1.1.1.0 play.googleapis.com
 1.1.1.0 qappcenter.3g.qq.com
 1.1.1.0 qos.game.qq.com
 1.1.1.0 qos.game.qq.com:8080
@@ -343,7 +333,6 @@
 1.1.1.0 vp.html5.qq.com
 1.1.1.0 vv.video.qq.com
 1.1.1.0 wspeed.qq.com
-1.1.1.0 www.googleapis.com
 1.1.1.0 www.uyunad.com
 1.1.1.0 yun-hl.3g.qq.com
 1.1.1.1 sq12.pg.qq.com
@@ -408,7 +397,6 @@
 42.0.13.37 aeventlog.beacon.qq.com
 42.0.13.37 alog.umeng.com
 42.0.13.37 android.bugly.qq.com
-42.0.13.37 android.clients.google.com
 42.0.13.37 android.rqd.qq.com
 42.0.13.37 api.dingd.cn
 42.0.13.37 api.ribaoapi.com
@@ -458,7 +446,6 @@
 42.0.13.37 dlied.qq.com
 42.0.13.37 down.qq.cn
 42.0.13.37 down.qq.com
-42.0.13.37 facebook.com
 42.0.13.37 game.str.mdt.qq.com
 42.0.13.37 gameeve.beacon.qq.com
 42.0.13.37 gameguardian.cn
@@ -466,8 +453,6 @@
 42.0.13.37 gameguardian.net
 42.0.13.37 gamesafe.qq.com
 42.0.13.37 gamestr.beacon.qq.com
-42.0.13.37 google.com
-42.0.13.37 graph.facebook.com
 42.0.13.37 graph.mackbook.com
 42.0.13.37 idc.dir.tdm.qq.com
 42.0.13.37 idc.receiver.tdm.qq.com
@@ -499,7 +484,6 @@
 42.0.13.37 oth.str.mdt.qq.com
 42.0.13.37 pg.qq.com
 42.0.13.37 pingma.qq.com
-42.0.13.37 play.googleapis.com
 42.0.13.37 pmir.3g.qq.com
 42.0.13.37 pms.mb
 42.0.13.37 pms.mb.qq.com
@@ -658,7 +642,6 @@
 42.0.13.37 www.dlied6.tc.qq.com
 42.0.13.37 www.dlied6.tcdn.qq.com
 42.0.13.37 www.gameguardian.net
-42.0.13.37 www.google.com
 42.0.13.37 www.idc.dir.tdm.qq.com
 42.0.13.37 www.ip.com
 42.0.13.37 www.mackbook.com
@@ -675,8 +658,6 @@
 42.0.13.37 www.www.dingd.cn
 42.0.13.37 xiaoyangren.cnm
 42.0.13.37 xiaoyangren.com
-42.0.13.37 youtube.com
-42.0.13.37 youtube.com.cn
 14.18.245.164 foxmail.com.cn
 18.211.61.121 lb-d.us1.gigya.com
 23.55.31.111 c1.qq.com
@@ -2214,7 +2195,6 @@
 42.0.13.37 air.yoyi.com.cn
 42.0.13.37 ait025.analysys.cn
 42.0.13.37 ait240.analysys.cn
-42.0.13.37 ajax.googleapis.com
 42.0.13.37 ajialive.com
 42.0.13.37 ak47.cooguo.com
 42.0.13.37 aka-cdn-ns.adtechus.com
@@ -2282,10 +2262,6 @@
 42.0.13.37 android.bcfads.com
 42.0.13.37 android.bugly.qq.co
 42.0.13.37 android.bugly.qq.com
-42.0.13.37 android.bugly.qq.com:80
-42.0.13.37 android.clients.google.com
-42.0.13.37 android.clients.google.com:443
-42.0.13.37 android.googleapis.com:443
 42.0.13.37 android.push.126.net
 42.0.13.37 android.rqd.qq.com
 42.0.13.37 android.rqd.qq.com 42.0.13.37 mtrace.qq.com
@@ -3148,8 +3124,6 @@
 42.0.13.37 clientreport.com
 42.0.13.37 clientreport.gfm.qq.com
 42.0.13.37 clientrz2.itop.qq.com
-42.0.13.37 clients.google.com:443
-42.0.13.37 clientservices.googleapis.com:443
 42.0.13.37 clk.atdmt.com
 42.0.13.37 clk.dxpmedia.com
 42.0.13.37 clk.gentags.net
@@ -3743,7 +3717,6 @@
 42.0.13.37 dobre-programy.pl
 42.0.13.37 dobre-programy.xyz
 42.0.13.37 dobreprogramy.pro
-42.0.13.37 doc-10-8s-docs.googleusercontent.com
 42.0.13.37 doc.cnzz.com
 42.0.13.37 doc.go.sohu.com
 42.0.13.37 docs.beacon.qq.com
@@ -4226,9 +4199,7 @@
 42.0.13.37 fghm.ga25.com
 42.0.13.37 fghmc.ga25.com
 42.0.13.37 fghmimg.ga25.com
-42.0.13.37 fgoogle.com # misspelling
 42.0.13.37 file-igamecj.akamaized.net
-42.0.13.37 file-igamecj.akamaized.net:80
 42.0.13.37 file-igamecj.com
 42.0.13.37 file.bmob.cn
 42.0.13.37 file.chanet.com.cn
@@ -4452,19 +4423,12 @@
 42.0.13.37 gog9.qzdfc.com
 42.0.13.37 golden1.sogou.com
 42.0.13.37 goodblock.gladly.io
-42.0.13.37 google.com
-42.0.13.37 googleads.g.doubleclick.net
-42.0.13.37 googleads.g.doubleclick.net:443
-42.0.13.37 googleadservices.com
-42.0.13.37 googleadsserving.cn
-42.0.13.37 googleapis.com:443
 42.0.13.37 gopig.io
 42.0.13.37 gorgon.youdao.com
 42.0.13.37 goto.sogou.com
 42.0.13.37 gouwu.qq.com
 42.0.13.37 gp.3g.qq.com
 42.0.13.37 gpydym.cn
-42.0.13.37 graph.facebook.com
 42.0.13.37 graph.mackbook.com
 42.0.13.37 graph.qq.com
 42.0.13.37 green.erne.co
@@ -4941,7 +4905,6 @@
 42.0.13.37 intl.cloud.tencent.com
 42.0.13.37 ioc.mmakd.top
 42.0.13.37 ios.bugly.qq.com
-42.0.13.37 ios.clients.google.com
 42.0.13.37 iosipa.b0.upaiyun.com
 42.0.13.37 ip2.pxene.com
 42.0.13.37 ip.hivps.xyz
@@ -5288,7 +5251,6 @@
 42.0.13.37 letv.m.cn.miaozhen.com
 42.0.13.37 lg2.jointreport-switch.com
 42.0.13.37 lg4.jointreport-switch.com
-42.0.13.37 lh3.googleusercontent.com
 42.0.13.37 lhg.alisinak.com
 42.0.13.37 li.anyysz.com
 42.0.13.37 lianmeng.360.cn
@@ -5853,7 +5815,6 @@
 42.0.13.37 mdc.html5.qq.com
 42.0.13.37 mdc.meitustat.com
 42.0.13.37 mdevstat.qqlive.qq.com
-42.0.13.37 mdh-pa.googleapis.com:443
 42.0.13.37 mdrecv.app.cntvwb.cn
 42.0.13.37 mdt.qq.com
 42.0.13.37 me-cdn.effectivemeasure.net
@@ -6039,7 +6000,6 @@
 42.0.13.37 mstat.zol.com.cn
 42.0.13.37 mta.oa.com
 42.0.13.37 mta.qq.com
-42.0.13.37 mtalk.google.com:5228
 42.0.13.37 mtcls.qq.com
 42.0.13.37 mtd.qq.com
 42.0.13.37 mti.35kds.com
@@ -6347,7 +6307,6 @@
 42.0.13.37 page.coral.qq.com
 42.0.13.37 page.opensns.qq.com
 42.0.13.37 page.xywy.com
-42.0.13.37 pagead2.googlesyndication.com
 42.0.13.37 pagead46.l.doubleclick.net
 42.0.13.37 pagechoicemotu.gentags.net
 42.0.13.37 pages2.marketo.com
@@ -6362,8 +6321,6 @@
 42.0.13.37 panshi.qq.com
 42.0.13.37 parking.zunmi.cn
 42.0.13.37 parser.houyi.baofeng.net
-42.0.13.37 partner.googleadservices.com
-42.0.13.37 partnerads.ysm.yahoo.com
 42.0.13.37 pass1.soogif.com
 42.0.13.37 pass2.soogif.com
 42.0.13.37 pasta.parallelaccounts.duapps.com
@@ -6509,8 +6466,6 @@
 42.0.13.37 platform-lookaside.fbsbx.com
 42.0.13.37 platform-lookaside.fbsbx.com:443
 42.0.13.37 platform.wondershare.com
-42.0.13.37 play.googleapis.com
-42.0.13.37 play.googleapis.com:443
 42.0.13.37 player.log.hunantv.com
 42.0.13.37 player.qq.com
 42.0.13.37 playinfo.gomlab.com
@@ -7521,7 +7476,6 @@
 42.0.13.37 ssh.yezijizhang.com
 42.0.13.37 ssl-cdn.media.innity.net
 42.0.13.37 ssl.cloud.gsdk.qq.com
-42.0.13.37 ssl.google-analytics.com
 42.0.13.37 ssl.hyhzy.cn
 42.0.13.37 ssl.msdk.qq.com
 42.0.13.37 ssl.ptlogin2.qq.com
@@ -7636,7 +7590,6 @@
 42.0.13.37 static.g.mi.com
 42.0.13.37 static.g.pptv.com
 42.0.13.37 static.gg.uuu9.com
-42.0.13.37 static.googleadsserving.cn
 42.0.13.37 static.gridsumdissector.com
 42.0.13.37 static.hotjar.com
 42.0.13.37 static.houyi.baofeng.net
@@ -8754,15 +8707,6 @@
 42.0.13.37 www.gentags.com
 42.0.13.37 www.gj500.com
 42.0.13.37 www.globalsign.com
-42.0.13.37 www.google-analytics.com
-42.0.13.37 www.google.co.id
-42.0.13.37 www.google.com
-42.0.13.37 www.googleadservices.com
-42.0.13.37 www.googleadservices.com:443
-42.0.13.37 www.googleapis.com
-42.0.13.37 www.googleapis.com:443
-42.0.13.37 www.googletagmanager.com
-42.0.13.37 www.googletagservices.com
 42.0.13.37 www.goolpter.com
 42.0.13.37 www.gouzhibao.cn
 42.0.13.37 www.growingio.com
@@ -9225,7 +9169,6 @@
 42.0.13.37 youku-dtv.m.cn.miaozhen.com
 42.0.13.37 youle.tom.com
 42.0.13.37 youmi.net
-42.0.13.37 youtube.com
 42.0.13.37 youxi.kugou.com
 42.0.13.37 yp.qq.com
 42.0.13.37 ypv.chengadx.com
@@ -9393,7 +9336,6 @@
 47.107.84.98 tpns.qq.com
 47.107.84.98 ts8.qq.com
 47.107.84.98 zhizi.qq.com
-58.60.9.101 58.60.9.101
 58.247.214.32 hkconfig.gcloud.qq.com
 59.37.97.25 mta.qq.com
 64.4.250.36 paypal.com
@@ -9402,7 +9344,6 @@
 64.233.188.121	m.android.com
 64.233.188.121	tools.android.com
 64.233.191.121	jmoore-dot-android-experiments.appspot.com
-64.233.191.121	maven.google.com
 101.89.19.165 ns1.qq.com
 101.226.76.164 jsonatm.broker.tplay.qq.com
 101.226.113.204 qos.game.qq.com
@@ -9628,7 +9569,8 @@
 121.51.36.41 chong.qq.com
 121.51.67.139 cs.mbgame.gamesafe.qq.com
 121.51.67.139 pandora.ga
-121.51.67.139 pandora.ga42.0.13.37 dlied1.qq.com
+121.51.67.139 pandora.ga
+42.0.13.37 dlied1.qq.com
 121.51.67.139 pandora.game.qq.com
 121.51.142.22 sdk.e.qq.com
 121.51.154.20 game.str.mdt.qq.com
@@ -9660,7 +9602,6 @@
 127.0.0.1 test.vmp.qq.com
 127.0.0.1 tpns.qq.com
 127.0.0.1 vmp.qq.com
-127.0.0.1 www.googleapis.com
 127.0.0.1 sdi.3g.qq.com
 127.0.0.1 182.254.116.117
 127.0.0.1 localhost
@@ -9706,19 +9647,17 @@
 132.232.197.97 q.qlogo.cn
 139.196.2.206 139.196.2.206
 140.207.54.57 vmp.qq.com
-168.1.178 proxy game
 172.0.168.1 m.qpic.cn
 172.0.168.1 masdk.3g.qq.com
 172.0.168.1 oth.eve.mdt.qq.com
 172.0.168.1 qappcenter.3g.qq.com
 172.0.168.1 sdksp.video.qq.com
-172.0.168.1 www.googleapis.com
-172.1 6.6.86 sqlobby.pg.qq.com
-172.1 6.6.86cs.gcloud.qq.com
+172.16.6.86 sqlobby.pg.qq.com
+172.16.6.86 cs.gcloud.qq.com
 172.16.6.86 cs.gcloud.qq.com
 172.16.6.86 mobile.opensdk.com
 172.16.6.86 sqlobby.pg.qq.com
-172.16.6861mobile.op ensdk.com
+172.16.6.86 mobile.opensdk.com
 172.168.1.2 182.254.116.117
 172.168.1.2 down.qq.cn
 172.168.1.3 182.254.116.117
@@ -9763,33 +9702,6 @@
 172.171.188.144 dlied6.qq.com
 172.171.188.144 oth.eve.mdt.qq.com
 172.171.188.144 pingma.qq.com
-172.217.6.127	a.android.com
-172.217.6.127	android-china.l.google.com
-172.217.6.127	android-developers.blogspot.com
-172.217.6.127	android-developers.blogspot.hk
-172.217.6.127	android-developers.googleblog.com
-172.217.6.127	android-market.l.google.com
-172.217.6.127	android-review.googlesource.com
-172.217.6.127	android.clients.google.com
-172.217.6.127	android.com
-172.217.6.127	android.googleapis.com
-172.217.6.127	android.googleblog.com
-172.217.6.127	android.googlecode.com
-172.217.6.127	android.googlesource.com
-172.217.6.127	android.l.google.com
-172.217.6.127	androidmarket.googleusercontent.com
-172.217.6.127	androidstudio.googleblog.com
-172.217.6.127	connectivitycheck.android.com
-172.217.6.127	d.android.com
-172.217.6.127	dev.android.com
-172.217.6.127	developer.android.com
-172.217.6.127	jmoore-dot-android-experiments.appspot.com
-172.217.6.127	market.android.com
-172.217.6.127	officialandroid.blogspot.com
-172.217.6.127	r.android.com
-172.217.6.127	source.android.com
-172.217.6.127	www.android.com
-172.217.17.174 m.youtube.com
 175.155.120.113 api.unipay.qq.com
 180.163.26.100 logs.game.qq.com
 182.254.10.29 kog.vmp.qq.com
@@ -9815,16 +9727,6 @@
 183.232.123.169 game.eve.mdt.qq.com
 183.240.119.239 cdn.wetest.qq.com
 183.240.119.239 down.game.qq.com
-198.35.26.96	wuu.m.wikipedia.org
-198.35.26.96	wuu.wikipedia.org
-198.35.26.96	zh-yue.m.wikipedia.org
-198.35.26.96	zh-yue.wikipedia.org
-198.35.26.96 en.m.wikipedia.org
-198.35.26.96 en.wikipedia.org
-198.35.26.96 eu.wikipedia.org
-198.35.26.96 www.wikipedia.org
-198.35.26.96 zh.m.wikipedia.org
-198.35.26.96 zh.wikipedia.org
 203.119.128.55 oc.umeng.com
 203.205.128.111 mail.qq.com
 203.205.128.159 cs.mbgame.gamesafe.qq.com
