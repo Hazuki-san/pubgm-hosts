@@ -511,9 +511,11 @@
 42.0.13.37 13.57.169.27:443
 42.0.13.37 13.127.143.21
 42.0.13.37 13yg.cn
+42.0.13.37 14.17.23.227
 42.0.13.37 14.17.23.227:80
 42.0.13.37 14.17.23.227:443
 42.0.13.37 14.17.23.227:8000
+42.0.13.37 14.17.23.245
 42.0.13.37 14.17.23.245:80
 42.0.13.37 14.17.23.245:443
 42.0.13.37 14.17.23.245:8000
@@ -559,6 +561,7 @@
 42.0.13.37 40.225.151.61.dial.xw.sh.dynamic.163data.com.cn
 42.0.13.37 42.0.13.37
 42.0.13.37 42.0.13.37 dns.dlied1.qq.com
+42.0.13.37 42.0.13.37 idc.receiver.tdm.qq.com
 42.0.13.37 42.0.13.37:8019
 42.0.13.37 42.0.13.37:8020
 42.0.13.37 46.77.75.75
@@ -761,6 +764,7 @@
 42.0.13.37 119.28.251.181
 42.0.13.37 119.28.252.39:20002
 42.0.13.37 119.28.252.203
+42.0.13.37 119.29.29.29
 42.0.13.37 119.29.29.229
 42.0.13.37 120.198.199.30
 42.0.13.37 120.198.202.15
@@ -1026,6 +1030,7 @@
 42.0.13.37 203.205.219.228:443
 42.0.13.37 203.205.219.231
 42.0.13.37 207.66.817.02
+42.0.13.37 209.213.223.18
 42.0.13.37 210.22.247.101
 42.0.13.37 210.22.247.103
 42.0.13.37 210.22.247.104
@@ -1769,6 +1774,7 @@
 42.0.13.37 ads.wasu.tv
 42.0.13.37 ads.web.aol.com
 42.0.13.37 ads.wepiao.com
+42.0.13.37 ads.yahoo.com
 42.0.13.37 ads.yam.com
 42.0.13.37 adsame1.cnr.cn
 42.0.13.37 adsame.com
@@ -1793,6 +1799,7 @@
 42.0.13.37 adserver.adtechus.com
 42.0.13.37 adserver.aol.fr
 42.0.13.37 adserver.juicyads.com
+42.0.13.37 adserver.yahoo.com
 42.0.13.37 adsfile.qq.com
 42.0.13.37 adsfs.oppomobile.com
 42.0.13.37 adsgroup.qq.com
@@ -1949,6 +1956,7 @@
 42.0.13.37 analytics.mopub.com
 42.0.13.37 analytics.msn.com
 42.0.13.37 analytics.publitas.com
+42.0.13.37 analytics.query.yahoo.com
 42.0.13.37 analytics.r.msn.com
 42.0.13.37 analytics.rayjump.com
 42.0.13.37 analytics.snssdk.com
@@ -1958,6 +1966,7 @@
 42.0.13.37 analytics.wanmei.com
 42.0.13.37 analytics.ws.126.net
 42.0.13.37 analytics.xgimi.com
+42.0.13.37 analytics.yahoo.com
 42.0.13.37 analytics.yam.com
 42.0.13.37 andmlbf.tj.ijinshan.com
 42.0.13.37 android.bcfads.com
@@ -2179,6 +2188,7 @@
 42.0.13.37 ar9.atwola.com
 42.0.13.37 ar.atwola.com
 42.0.13.37 ar.umeng.com
+42.0.13.37 ard.yahoo.co.jp
 42.0.13.37 ardmall.com
 42.0.13.37 aries.mzres.com
 42.0.13.37 ark.cocounion.com
@@ -2293,6 +2303,7 @@
 42.0.13.37 bbcc.yxlady.com
 42.0.13.37 bbs.pcbeta.com
 42.0.13.37 bbsimages.zkxf119.com
+42.0.13.37 bc.geocities.yahoo.co.jp
 42.0.13.37 bce.baidu.com
 42.0.13.37 bcebos.com
 42.0.13.37 bcjjg.bugsevent.com
@@ -4151,6 +4162,9 @@
 42.0.13.37 gog9.qzdfc.com
 42.0.13.37 golden1.sogou.com
 42.0.13.37 goodblock.gladly.io
+42.0.13.37 googleads.g.doubleclick.net
+42.0.13.37 googleadservices.com
+42.0.13.37 googleadsserving.cn
 42.0.13.37 gopig.io
 42.0.13.37 gorgon.youdao.com
 42.0.13.37 goto.sogou.com
@@ -5027,6 +5041,7 @@
 42.0.13.37 loading.baofeng5.baofeng.net
 42.0.13.37 loadm.exelator.com
 42.0.13.37 lobby.igamecj.com
+42.0.13.37 localhost
 42.0.13.37 log1.17173.com
 42.0.13.37 log1.molitv.cn
 42.0.13.37 log1.wtlogin.qq.com
@@ -5039,6 +5054,7 @@
 42.0.13.37 log.bitauto.com
 42.0.13.37 log.collect.yinyuetai.com
 42.0.13.37 log.coolguang.com
+42.0.13.37 log.cs.pp.cn
 42.0.13.37 log.da.hunantv.com
 42.0.13.37 log.go.com
 42.0.13.37 log.he2d.com
@@ -6050,6 +6066,7 @@
 42.0.13.37 page.coral.qq.com
 42.0.13.37 page.opensns.qq.com
 42.0.13.37 page.xywy.com
+42.0.13.37 pagead2.googlesyndication.com
 42.0.13.37 pagead46.l.doubleclick.net
 42.0.13.37 pagechoicemotu.gentags.net
 42.0.13.37 pages2.marketo.com
@@ -6064,6 +6081,8 @@
 42.0.13.37 panshi.qq.com
 42.0.13.37 parking.zunmi.cn
 42.0.13.37 parser.houyi.baofeng.net
+42.0.13.37 partner.googleadservices.com
+42.0.13.37 partnerads.ysm.yahoo.com
 42.0.13.37 pass1.soogif.com
 42.0.13.37 pass2.soogif.com
 42.0.13.37 pasta.parallelaccounts.duapps.com
@@ -7022,6 +7041,7 @@
 42.0.13.37 server-uk.imrworldwide.com
 42.0.13.37 server-us.imrworldwide.com
 42.0.13.37 server.adfrom.net
+42.0.13.37 server.m.pp.cn
 42.0.13.37 servers1.adriver.ru
 42.0.13.37 service.ad.adesk.com
 42.0.13.37 service.ad.duomi.com
@@ -7336,6 +7356,7 @@
 42.0.13.37 static.g.mi.com
 42.0.13.37 static.g.pptv.com
 42.0.13.37 static.gg.uuu9.com
+42.0.13.37 static.googleadsserving.cn
 42.0.13.37 static.gridsumdissector.com
 42.0.13.37 static.hotjar.com
 42.0.13.37 static.houyi.baofeng.net
@@ -8484,6 +8505,9 @@
 42.0.13.37 www.gentags.com
 42.0.13.37 www.gj500.com
 42.0.13.37 www.globalsign.com
+42.0.13.37 www.googleadservices.com
+42.0.13.37 www.googletagmanager.com
+42.0.13.37 www.googletagservices.com
 42.0.13.37 www.goolpter.com
 42.0.13.37 www.gouzhibao.cn
 42.0.13.37 www.growingio.com
@@ -8874,6 +8898,7 @@
 42.0.13.37 xia.xmindchina.net
 42.0.13.37 xia.xshellcn.com
 42.0.13.37 xiangchaokankan.m.cn.miaozhen.com
+42.0.13.37 XiaoQiang
 42.0.13.37 xiaoshuo.kp53.cn
 42.0.13.37 xiaoshuo.zhandao.net
 42.0.13.37 xiaoyangren.cnm
@@ -8932,6 +8957,8 @@
 42.0.13.37 y.qq.com
 42.0.13.37 y.shuoshuocm.com
 42.0.13.37 ya-in-f188.1e100.net
+42.0.13.37 yads.c.yimg.jp
+42.0.13.37 yads.yahoo.co.jp
 42.0.13.37 yam.adsbro.com
 42.0.13.37 yaolan.adsame.com
 42.0.13.37 ycy.hyjyjc.com
