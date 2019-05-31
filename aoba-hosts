@@ -77,6 +77,7 @@
 42.0.13.37 9z.qq.com
 42.0.13.37 10.0.0.200
 42.0.13.37 10.211.254.254
+42.0.13.37 10.255.255.255
 42.0.13.37 12i.cn
 42.0.13.37 13.56.53.3
 42.0.13.37 13.56.64.20
@@ -143,14 +144,13 @@
 42.0.13.37 49.51.130.93
 42.0.13.37 49.51.130.96
 42.0.13.37 49.51.130.155
-42.0.13.37 49.51.130.11
-42.0.13.37 49.51.130.96
 42.0.13.37 49.51.132.171
 42.0.13.37 49.51.133.163
 42.0.13.37 49.51.134.84
 42.0.13.37 49.51.134.169
 42.0.13.37 49.51.135.20
 42.0.13.37 49.51.135.84
+42.0.13.37 49.51.136.26
 42.0.13.37 49.51.138.45
 42.0.13.37 49.51.150.133
 42.0.13.37 49.51.153.207
@@ -313,8 +313,6 @@
 42.0.13.37 119.28.33.29
 42.0.13.37 119.28.109.60
 42.0.13.37 119.28.109.89
-42.0.13.37 119.28.109.60
-42.0.13.37 119.28.109.187
 42.0.13.37 119.28.109.187
 42.0.13.37 119.28.111.185
 42.0.13.37 119.28.114.52
@@ -439,6 +437,7 @@
 42.0.13.37 163.117.89.192
 42.0.13.37 163.177.90.103
 42.0.13.37 163.wrating.com
+42.0.13.37 163data.com.cn
 42.0.13.37 168.it168.com
 42.0.13.37 169.38.87.166
 42.0.13.37 169.38.87.168
@@ -711,96 +710,6 @@
 42.0.13.37 1493361689.rsc.cdn77.org
 42.0.13.37 1950038955.igamekr.gcloudcs.com
 42.0.13.37 4009997658.com
-42.0.13.37 10.255.255.255
-42.0.13.37 46.17.41.102
-42.0.13.37 49.51.42.99
-42.0.13.37 49.51.42.152
-42.0.13.37 49.51.136.26
-42.0.13.37 107.155.58.98
-42.0.13.37 119.28.244.50
-42.0.13.37 163data.com.cn
-42.0.13.37 172.104.163.233
-42.0.13.37 182.254.116.117
-42.0.13.37 203.205.146.122
-42.0.13.37 119.28.164.143
-42.0.13.37 182.254.116.117
-42.0.13.37 ocsp.apple.com
-42.0.13.37 android.bugly.qq.com
-42.0.13.37 apse.s.ludashi.com
-42.0.13.37 cdn.wetest.qq.com
-42.0.13.37 cloud.gsdk.proximabeta.com
-42.0.13.37 dlied1.qq.com
-42.0.13.37 down.qq.com
-42.0.13.37 eve.mdt.qq.com
-42.0.13.37 file-igamecj.akamaized.net
-42.0.13.37 file.igamecj.com
-42.0.13.37 log.tbs.qq.com
-42.0.13.37 oth.eve.mdt.qq.com
-42.0.13.37 oth.str.mdt.qq.com
-42.0.13.37 pingma.qq.com
-42.0.13.37 pubgmvn.helpshift.com
-42.0.13.37 vmp.qq.com
-42.0.13.37 ads.qq.com
-42.0.13.37 android.bugly.qq.com
-42.0.13.37 api.dingd.cn
-42.0.13.37 apm.wetest.qq.com
-42.0.13.37 app.adjust.com
-42.0.13.37 appsupport.qq.com
-42.0.13.37 c.isdspeed.qq.com
-42.0.13.37 cdn.wetest.qq.com
-42.0.13.37 cgi.connect.qq.com
-42.0.13.37 clientreport.gfm.qq.com
-42.0.13.37 cloud.gsdk.proximabeta.com
-42.0.13.37 cloud.tencent.com
-42.0.13.37 com.data.v.qq.com
-42.0.13.37 com.tencent.beacon
-42.0.13.37 commdata.v.qq.com
-42.0.13.37 cs.mbgame.gamesafe.qq.com
-42.0.13.37 dlied1.qq.com
-42.0.13.37 dlied1.tc.qq.com
-42.0.13.37 dlied1.tcdn.qq.com
-42.0.13.37 down.qq.com
-42.0.13.37 download.2.1375135419.igame.gcloudcs.com
-42.0.13.37 downloads.2.1375135419.igame.gcloudcs.com
-42.0.13.37 dreamreader.qq.com
-42.0.13.37 en.qq.com
-42.0.13.37 euping.igamecj.com
-42.0.13.37 fm.qq.com
-42.0.13.37 game.gtimg.cn
-42.0.13.37 gameguardian.net
-42.0.13.37 gcloud.qq.com
-42.0.13.37 hkconfig.gcloud.qq.com
-42.0.13.37 hkping.igamecj.com
-42.0.13.37 http.route.default-proxy
-42.0.13.37 id.qq.com
-42.0.13.37 idc.dir.tdm.qq.com
-42.0.13.37 idc.receiver.tdm.qq.com
-42.0.13.37 idcconfig.gcloud.qq.com
-42.0.13.37 krping.igamecj.com
-42.0.13.37 mp.weixin.qq.com
-42.0.13.37 mp.weixin.qq.com7.4 appsupport.qq.com
-42.0.13.37 mta.qq.com
-42.0.13.37 naping.igamecj.com
-42.0.13.37 ops.qq.com
-42.0.13.37 oth.eve.mdt.qq.com
-42.0.13.37 oth.eve.mdt.qq.com80
-42.0.13.37 oth.str.mdt.qq.com
-42.0.13.37 oth.update.mdt.qq.com
-42.0.13.37 pingma.qq.com
-42.0.13.37 pingmid.qq.com
-42.0.13.37 pmir.3g.qq.com
-42.0.13.37 pubgm.zing.vn
-42.0.13.37 puffer.4.1375135419.igame.gcloudcs.com
-42.0.13.37 q.qlogo.cn
-42.0.13.37 qos.hk.gcloudcs.com
-42.0.13.37 saping.igamecj.com
-42.0.13.37 ssl.qq.com
-42.0.13.37 strategy.beacon.qq.com
-42.0.13.37 tencentgames.helpshift.com
-42.0.13.37 vm.qq.com
-42.0.13.37 vmp.qq.com
-42.0.13.37 weixin.qq.com
-42.0.13.37 www.dingd.cn
 42.0.13.37 a1.huanqiumil.com
 42.0.13.37 a1.huiqituan.com
 42.0.13.37 a1.img.static.youmi.net
@@ -926,6 +835,7 @@
 42.0.13.37 ac3.msn.com
 42.0.13.37 ac.atpanel.com
 42.0.13.37 ac.mmstat.com
+42.0.13.37 ac.toradora.qq.com
 42.0.13.37 access.video.qq.com
 42.0.13.37 accessfull.com
 42.0.13.37 acdn.adnxs.com
@@ -1482,8 +1392,6 @@
 42.0.13.37 android.clients.google.com
 42.0.13.37 android.push.126.net
 42.0.13.37 android.rqd.qq.com
-42.0.13.37 android.rqd.qq.com
-42.0.13.37 mtrace.qq.com
 42.0.13.37 androidads20staging.adcolony.com
 42.0.13.37 androidads23.adcolony.com
 42.0.13.37 androidlog.shouji.baofeng.com
@@ -1492,6 +1400,7 @@
 42.0.13.37 anfeng.com
 42.0.13.37 annualconsumersurvey.com
 42.0.13.37 anquan.baidu.com
+42.0.13.37 anti.gg.bigtu.vip
 42.0.13.37 antivirus.baidu.com
 42.0.13.37 ao.ba.suz.ukaze.washe.re.cn
 42.0.13.37 aoba.telegram.is.AocchiPUBG.qq.cn
@@ -1774,6 +1683,7 @@
 42.0.13.37 b.code.tanwanyx.com
 42.0.13.37 b.epinv.com
 42.0.13.37 b.flyreading.cn
+42.0.13.37 b.ig.tugay.com
 42.0.13.37 b.kuangtuiguoo18888.com
 42.0.13.37 b.qchannel03.cn
 42.0.13.37 b.qq.com
@@ -1865,8 +1775,6 @@
 42.0.13.37 beacon.gtimg.com
 42.0.13.37 beacon.krxd.net
 42.0.13.37 beacon.qq.com
-42.0.13.37 beacon.qq.com
-42.0.13.37 sngmta.qq.com
 42.0.13.37 beacon.sina.com.cn
 42.0.13.37 beacon.sparta.mig.tencent-cloud.net
 42.0.13.37 beap-bc.yahoo.com
@@ -2463,6 +2371,8 @@
 42.0.13.37 collector.wasu.cn
 42.0.13.37 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 42.0.13.37 com-notice.info
+42.0.13.37 com.data.v.qq.com
+42.0.13.37 com.tencent.beacon
 42.0.13.37 comdata.v.qq.com
 42.0.13.37 comm.app.autohome.com.cn
 42.0.13.37 commdata.v.qq.com
@@ -3362,6 +3272,7 @@
 42.0.13.37 euping.igamecj.com
 42.0.13.37 eus.rubiconproject.com
 42.0.13.37 euspeed.igamecj.com
+42.0.13.37 eve.mdt.qq.com
 42.0.13.37 event.ksosoft.com
 42.0.13.37 event.mackeeper.com
 42.0.13.37 eventlog.beacon.qq.com
@@ -3587,8 +3498,6 @@
 42.0.13.37 gc.keefung-zs.com
 42.0.13.37 gcdn.2mdn.net
 42.0.13.37 gchat.qpic.cn
-42.0.13.37 gchat.qpic.cn
-42.0.13.37 msfwifi.3g.qq.com
 42.0.13.37 gcloud.qq.com
 42.0.13.37 gcloudcs.com
 42.0.13.37 gdt.qq.com
@@ -4080,7 +3989,6 @@
 42.0.13.37 impression.gridsumdissector.com
 42.0.13.37 imprhkmp.taboola.com
 42.0.13.37 impservice2.youdao.com
-42.0.13.37 b.ig.tugay.com
 42.0.13.37 impservice-test.dictapp.youdao.com
 42.0.13.37 impservice.chnl.youdao.com
 42.0.13.37 impservice.dict.youdao.com
@@ -4119,8 +4027,6 @@
 42.0.13.37 init.startappexchange.com
 42.0.13.37 inline.admedia.com
 42.0.13.37 ino.qq.com
-42.0.13.37 ac.toradora.qq.com
-42.0.13.37 o.su.qq.com
 42.0.13.37 inside.bitcomet.com
 42.0.13.37 inst.360safe.com
 42.0.13.37 install.kugou.com
@@ -4556,6 +4462,7 @@
 42.0.13.37 log.orchidscape.net
 42.0.13.37 log.p2p.hunantv.com
 42.0.13.37 log.ptlogin2.tencent-cloud.com
+42.0.13.37 log.ptlogin2.tencent-cloud.net
 42.0.13.37 log.rc.hunantv.com
 42.0.13.37 log.spotify.com
 42.0.13.37 log.stat.kugou.com
@@ -5190,6 +5097,7 @@
 42.0.13.37 mp.qq.com
 42.0.13.37 mp.weixin.qq
 42.0.13.37 mp.weixin.qq.com
+42.0.13.37 mp.weixin.qq.com7.4 appsupport.qq.com
 42.0.13.37 mp.weixin.qq.com.cn
 42.0.13.37 mpb1.iteye.com
 42.0.13.37 mpb2.iteye.com
@@ -5403,6 +5311,7 @@
 42.0.13.37 nz.qq.com
 42.0.13.37 o.if.qidian.com
 42.0.13.37 o.minisplat.cn
+42.0.13.37 o.su.qq.com
 42.0.13.37 oa-panther.data.aliyun.com
 42.0.13.37 oascentral.abclocal.go.com
 42.0.13.37 oascentral.hosted.ap.org
@@ -5416,7 +5325,6 @@
 42.0.13.37 ocsp4.globalsign.com
 42.0.13.37 ocsp5.globalsign.com
 42.0.13.37 ocsp.apple.com
-42.0.13.37 apt.saurik.com
 42.0.13.37 ocsp.globalsign.com
 42.0.13.37 odc.starwave.com
 42.0.13.37 oeeee.adsame.com
@@ -5474,6 +5382,8 @@
 42.0.13.37 otf.msn.com
 42.0.13.37 oth oth.eve.mdt.qq.com
 42.0.13.37 oth.eve.mdt.qq.com
+42.0.13.37 oth.eve.mdt.qq.com80
+42.0.13.37 oth.str.mdt.qq.com
 42.0.13.37 oth.update.mdt.qq.com
 42.0.13.37 oth.update.mdt.qq.com80
 42.0.13.37 otheve.play.aiseet.atianqi.com
@@ -5624,8 +5534,6 @@
 42.0.13.37 pg.qq.cm
 42.0.13.37 pg.qq.com
 42.0.13.37 pg.qq.com.cloud.tc.qq.com
-42.0.13.37 pg.qq.com.cloud.tc.qq.com
-42.0.13.37 log.ptlogin2.tencent-cloud.net
 42.0.13.37 pg.xdrig.com
 42.0.13.37 pgdt.gtimg.cn
 42.0.13.37 pgdt.ugdtimg.com
@@ -5756,8 +5664,6 @@
 42.0.13.37 puds.test.uae.uc.cn
 42.0.13.37 puds.ucweb.com
 42.0.13.37 puffer.4.1375135419.igame.gcloudcs.com
-42.0.13.37 puffer.4.1375135419.igame.gcloudcs.com
-42.0.13.37 119.28.244.50
 42.0.13.37 pull.push.sogou.com
 42.0.13.37 pups.bdimg.com
 42.0.13.37 pupu.xnhh120.com
@@ -5883,8 +5789,6 @@
 42.0.13.37 qxm.pluto.sogou.com
 42.0.13.37 qzone.qq.com
 42.0.13.37 qzonestyle.gtimg.cn
-42.0.13.37 qzonestyle.gtimg.cn
-42.0.13.37 210.22.247.103
 42.0.13.37 qzs.qq.com
 42.0.13.37 r01.3dwwwgame.com
 42.0.13.37 r2---sn-4g5e6nsd.c.2mdn.net
@@ -6601,7 +6505,6 @@
 42.0.13.37 soft.tbs.imtt.tc.qq.com
 42.0.13.37 soft.zhidian3g.cn
 42.0.13.37 softimtt.myapp.com
-42.0.13.37sm.myapp.com
 42.0.13.37 sohu.irs01.com
 42.0.13.37 sohu.wrating.com
 42.0.13.37 sohutv.cm.admaster.com.cn
@@ -6631,8 +6534,6 @@
 42.0.13.37 speed.qq.com
 42.0.13.37 speednetwork14.adk2x.com
 42.0.13.37 speen.ino.qq.com
-42.0.13.37 speen.ino.qq.com
-42.0.13.37 dlied1.tcdn.qq.com
 42.0.13.37 spinfo.wps.cn
 42.0.13.37 spire.aarki.net
 42.0.13.37 spnet2-1.i-mobile.co.jp
@@ -7034,6 +6935,7 @@
 42.0.13.37 temp.163.com
 42.0.13.37 temp.p23.tc.cdntip.com
 42.0.13.37 tencent-dtv.m.cn.miaozhen.com
+42.0.13.37 tencent-loves-aoba.zxq.co
 42.0.13.37 tencent.com
 42.0.13.37 tencent.games.qq.zxc.re
 42.0.13.37 tencent.games.qq.zxc.yt
@@ -7042,7 +6944,6 @@
 42.0.13.37 tencentgames.shift.com
 42.0.13.37 tengmed.com
 42.0.13.37 teq.com
-42.0.13.37 tencent-loves-aoba.zxq.co
 42.0.13.37 test2014.adview.cn
 42.0.13.37 test.ad.xiaomi.com
 42.0.13.37 test.e.ad.xiaomi.com
@@ -7080,7 +6981,6 @@
 42.0.13.37 titan.babytree.com
 42.0.13.37 titan.guestworld.tripod.lycos.com
 42.0.13.37 titi.18tzx.com
-42.0.13.37 anti.gg.bigtu.vip
 42.0.13.37 titi.qifajiang.cn
 42.0.13.37 tj.g.pptv.com
 42.0.13.37 tj.kugou.com
@@ -8260,7 +8160,6 @@
 42.0.13.37 wx.houyi.baofeng.net
 42.0.13.37 wx.paigu.com
 42.0.13.37 wx.qlogo.cn
-42.0.13.37 wx.qlogo.cn
 42.0.13.37 wx.zx590.com
 42.0.13.37 wxb.wxbdfm.com
 42.0.13.37 wxggtg.dre8.com
@@ -8550,6 +8449,7 @@
 42.0.13.37 zzpush.58.com
 42.0.13.37 zzy1.mipujia.com
 42.0.13.37 zzy.mipujia.com
+42.0.13.37sm.myapp.com
 255.255.255.255 broadcasthost
 ::1 ip6-localhost
 ::1 ip6-loopback
