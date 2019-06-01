@@ -1,3 +1,6 @@
+0:0:0:0:0:ffff:2a00:d25 2404:6800:4001:805::200e
+0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3100:1c3f:6fcd:e95f:3e9
+0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3102:7bac:fdd5:2e29:57ca
 42.0.13.37 0.r.msn.com
 42.0.13.37 0.up.qingdaonews.com
 42.0.13.37 0x5.me
@@ -130,6 +133,7 @@
 42.0.13.37 46.17.41.102
 42.0.13.37 46.77.75.75
 42.0.13.37 47.74.170.155
+42.0.13.37 47.107.84.98
 42.0.13.37 49.44.165.90
 42.0.13.37 49.44.175.11
 42.0.13.37 49.51.42.99
@@ -3663,10 +3667,10 @@
 42.0.13.37 hjc1990.com
 42.0.13.37 hk-cdn.effectivemeasure.net
 42.0.13.37 hk.api.unipay.qq.com
+42.0.13.37 hk.clientreport.gfm.qq.com
 42.0.13.37 hk.jtsh123.com
 42.0.13.37 hk.napi.ucweb.com
 42.0.13.37 hk.qq.com
-42.0.13.37 hk.clientreport.gfm.qq.com
 42.0.13.37 hkconfig.gcloud.qq.com
 42.0.13.37 hkconfigpingma.qq.com
 42.0.13.37 hkping.igamecj.com
@@ -3980,6 +3984,7 @@
 42.0.13.37 imp.xgo.com.cn
 42.0.13.37 imp.zdnet.com.cn
 42.0.13.37 imp.zol.com.cn
+42.0.13.37 impression.appsflyer.com
 42.0.13.37 impression.gridsumdissector.com
 42.0.13.37 imprhkmp.taboola.com
 42.0.13.37 impservice2.youdao.com
@@ -8436,10 +8441,6 @@
 42.0.13.37 zzpush.58.com
 42.0.13.37 zzy1.mipujia.com
 42.0.13.37 zzy.mipujia.com
-42.0.13.37 sm.myapp.com
-0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3102:7bac:fdd5:2e29:57ca
-0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3100:1c3f:6fcd:e95f:3e9
-0:0:0:0:0:ffff:2a00:d25 2404:6800:4001:805::200e
 255.255.255.255 broadcasthost
 ::1 ip6-localhost
 ::1 ip6-loopback
