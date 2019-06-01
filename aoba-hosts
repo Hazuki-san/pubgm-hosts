@@ -313,6 +313,7 @@
 42.0.13.37 119.28.33.29
 42.0.13.37 119.28.109.60
 42.0.13.37 119.28.109.89
+42.0.13.37 119.28.109.105
 42.0.13.37 119.28.109.187
 42.0.13.37 119.28.111.185
 42.0.13.37 119.28.114.52
@@ -468,7 +469,7 @@
 42.0.13.37 172.217.194.132
 42.0.13.37 172.217.194.156
 42.0.13.37 172.217.194.188
-42.0.13.37 173.36.108.3181
+42.0.13.37 173.36.108.31
 42.0.13.37 178.162.216.177
 42.0.13.37 178.162.216.178
 42.0.13.37 178.162.216.179
@@ -618,6 +619,7 @@
 42.0.13.37 223.167.252.145
 42.0.13.37 223.167.252.146
 42.0.13.37 223.167.252.154
+42.0.13.37 226.59.232.147
 42.0.13.37 233.166.150.140
 42.0.13.37 265.com
 42.0.13.37 360.yinooo.com
@@ -1536,14 +1538,11 @@
 42.0.13.37 apollo.caixin.com
 42.0.13.37 app-g.39.net
 42.0.13.37 app-measurement.com
-42.0.13.37 app-measurement.com ?4
 42.0.13.37 app-tj.adinall.com
 42.0.13.37 app.9yyg.cn
 42.0.13.37 app.50bang.org
 42.0.13.37 app.3987.com
 42.0.13.37 app.acm.dzwww.com
-42.0.13.37 app.adjsut.com
-42.0.13.37 app.adjust .com
 42.0.13.37 app.adjust.com
 42.0.13.37 app.aplus.pptv.com
 42.0.13.37 app.bz.qq.com
@@ -2372,6 +2371,7 @@
 42.0.13.37 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 42.0.13.37 com-notice.info
 42.0.13.37 com.data.v.qq.com
+42.0.13.37 com.tencent.beacon
 42.0.13.37 comdata.v.qq.com
 42.0.13.37 comm.app.autohome.com.cn
 42.0.13.37 commdata.v.qq.com
@@ -2898,12 +2898,7 @@
 42.0.13.37 download3.123cw.cn
 42.0.13.37 download.1.418021106.cs.gcloud.qq.com
 42.0.13.37 download.2.1375135419.igame.gcloudcs.com
-42.0.13.37 download.2.1375135419.igame.gcloudcs.com86
-42.0.13.37 download.2.1375135419.igame.gcloudcs.com88
-42.0.13.37 download.2.1375135419.igame.gcloudcs.com=119.28.244
-42.0.13.37 download.2.1375135419.igame.gcloudcs.com=119.28.244.50
 42.0.13.37 download.2.1950038955.igamekr.gcloudcs.com
-42.0.13.37 download.2.1950038955.igamekr.gcloudcs.com85 ?2
 42.0.13.37 download.2.1950038955.igamevn.gcloudcs.com
 42.0.13.37 download.123cw.cn
 42.0.13.37 download.350.com
@@ -3671,6 +3666,7 @@
 42.0.13.37 hk.jtsh123.com
 42.0.13.37 hk.napi.ucweb.com
 42.0.13.37 hk.qq.com
+42.0.13.37 hk.clientreport.gfm.qq.com
 42.0.13.37 hkconfig.gcloud.qq.com
 42.0.13.37 hkconfigpingma.qq.com
 42.0.13.37 hkping.igamecj.com
@@ -3836,7 +3832,6 @@
 42.0.13.37 iframes.awempire.com
 42.0.13.37 ifs.tanx.com
 42.0.13.37 ig-us-notice.igamecj.com
-42.0.13.37 ig-us-sdkapi-igamecj.com
 42.0.13.37 ig-us-sdkapi.igamecj.com
 42.0.13.37 ig.nukefans.net
 42.0.13.37 igame.gcloudcs.com
@@ -4432,7 +4427,6 @@
 42.0.13.37 loading.baofeng5.baofeng.net
 42.0.13.37 loadm.exelator.com
 42.0.13.37 lobby.igamecj.com
-42.0.13.37 localhost
 42.0.13.37 log1.17173.com
 42.0.13.37 log1.molitv.cn
 42.0.13.37 log1.wtlogin.qq.com
@@ -5096,6 +5090,7 @@
 42.0.13.37 mp.qq.com
 42.0.13.37 mp.weixin.qq
 42.0.13.37 mp.weixin.qq.com
+42.0.13.37 mp.weixin.qq.com7.4 appsupport.qq.com
 42.0.13.37 mp.weixin.qq.com.cn
 42.0.13.37 mpb1.iteye.com
 42.0.13.37 mpb2.iteye.com
@@ -5378,12 +5373,9 @@
 42.0.13.37 ossweb-img.qq.com
 42.0.13.37 osupdateservice.yunos.com
 42.0.13.37 otf.msn.com
-42.0.13.37 oth oth.eve.mdt.qq.com
 42.0.13.37 oth.eve.mdt.qq.com
-42.0.13.37 oth.eve.mdt.qq.com80
 42.0.13.37 oth.str.mdt.qq.com
 42.0.13.37 oth.update.mdt.qq.com
-42.0.13.37 oth.update.mdt.qq.com80
 42.0.13.37 otheve.play.aiseet.atianqi.com
 42.0.13.37 othstr.play.aiseet.atianqi.com
 42.0.13.37 outer.anquan.org
@@ -5392,7 +5384,6 @@
 42.0.13.37 ow.s1.shuhuangge.org
 42.0.13.37 ow.s2.shuhuangge.org
 42.0.13.37 owin.biqugego.com
-42.0.13.37 Owu1.qq.com
 42.0.13.37 owu1.qq.com
 42.0.13.37 p0.map.soso.com
 42.0.13.37 p2.hyz86.com
@@ -5761,8 +5752,6 @@
 42.0.13.37 qm.rcaiv.com
 42.0.13.37 qos.189.cn
 42.0.13.37 qos.game.qq.com
-42.0.13.37 qos.game.qq.com80
-42.0.13.37 qos.gcl
 42.0.13.37 qos.gcloud.qq.com
 42.0.13.37 qos.hk.gcloudcs.com
 42.0.13.37 qp.yunanfuwuqi.com
@@ -8447,7 +8436,10 @@
 42.0.13.37 zzpush.58.com
 42.0.13.37 zzy1.mipujia.com
 42.0.13.37 zzy.mipujia.com
-42.0.13.37sm.myapp.com
+42.0.13.37 sm.myapp.com
+0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3102:7bac:fdd5:2e29:57ca
+0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3100:1c3f:6fcd:e95f:3e9
+0:0:0:0:0:ffff:2a00:d25 2404:6800:4001:805::200e
 255.255.255.255 broadcasthost
 ::1 ip6-localhost
 ::1 ip6-loopback
