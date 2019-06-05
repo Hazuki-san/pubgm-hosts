@@ -16,7 +16,10 @@
 42.0.13.37 018520.com
 42.0.13.37 09_19.supfree.net
 42.0.13.37 1.0.0.10.in-addr.arpa
+42.0.13.37 1.0.3.254
 42.0.13.37 1.21shebao.com
+42.0.13.37 1.1.5.188
+42.0.13.37 1.1.23.185
 42.0.13.37 1.1010pic.com
 42.0.13.37 1.aili.com
 42.0.13.37 1.allyes.com.cn
@@ -82,6 +85,8 @@
 42.0.13.37 10.102.1.91
 42.0.13.37 10.102.3.125
 42.0.13.37 10.102.3.156
+42.0.13.37 10.102.5.69
+42.0.13.37 10.102.8.213
 42.0.13.37 10.102.34.142
 42.0.13.37 10.211.254.254
 42.0.13.37 10.255.255.255
@@ -150,6 +155,7 @@
 42.0.13.37 49.51.42.99
 42.0.13.37 49.51.42.152
 42.0.13.37 49.51.42.201
+42.0.13.37 49.51.67.151
 42.0.13.37 49.51.67.224
 42.0.13.37 49.51.78.41
 42.0.13.37 49.51.129.29
@@ -311,6 +317,7 @@
 42.0.13.37 114.124.204.24
 42.0.13.37 114.125.83.234
 42.0.13.37 114.125.83.241
+42.0.13.37 114.134.80.166
 42.0.13.37 114.allyes.com
 42.0.13.37 114study.adsame.com
 42.0.13.37 115.159.100.85
@@ -334,6 +341,7 @@
 42.0.13.37 119.28.109.105
 42.0.13.37 119.28.109.187
 42.0.13.37 119.28.111.185
+42.0.13.37 119.28.113.177
 42.0.13.37 119.28.114.52
 42.0.13.37 119.28.114.82
 42.0.13.37 119.28.114.184
@@ -443,6 +451,7 @@
 42.0.13.37 150.109.124.131
 42.0.13.37 150.109.164.75
 42.0.13.37 150.109.164.160
+42.0.13.37 150.109.164.205
 42.0.13.37 150.109.178.120
 42.0.13.37 150.109.181.63
 42.0.13.37 150.109.182.35
@@ -1484,7 +1493,6 @@
 42.0.13.37 cachenotice.cp11.ott.cibntv.net
 42.0.13.37 cad.chosun.com
 42.0.13.37 caing.adsame.com
-42.0.13.37 caipi.voice.gcloud.qq.com
 42.0.13.37 caixin.adsame.com
 42.0.13.37 caixinimg.adsame.com
 42.0.13.37 cal.meizu.com
@@ -1493,7 +1501,6 @@
 42.0.13.37 canvas.gdt.qq.com
 42.0.13.37 cap.cyberlink.com
 42.0.13.37 cap.touclick.com
-42.0.13.37 capi.voice.gcloud.qq.com
 42.0.13.37 captcha.qq.com
 42.0.13.37 car.mobadme.jp
 42.0.13.37 cas.criteo.com
@@ -1740,7 +1747,6 @@
 42.0.13.37 clkservice.union.youdao.com
 42.0.13.37 clkservice.youdao.com
 42.0.13.37 cloud.codenow.cn
-42.0.13.37 cloud.com
 42.0.13.37 cloud.gsdk.proximabeta.com
 42.0.13.37 cloud.gsdk.qq.com
 42.0.13.37 cloud.pinyin.2345.co
@@ -2170,7 +2176,6 @@
 42.0.13.37 de.as.pptv.com
 42.0.13.37 de.dzribao.com
 42.0.13.37 de.pandora.xiaomi.com
-42.0.13.37 de.voice.gcloudcs.com
 42.0.13.37 debugreport.mobiledissector.com
 42.0.13.37 debugtbs.qq.com
 42.0.13.37 debugx5.qq.com
@@ -3461,7 +3466,6 @@
 42.0.13.37 in.mengpr.com
 42.0.13.37 in.mgwcn.com
 42.0.13.37 in.qzkxt.com
-42.0.13.37 in.voice.gcloudcs.com
 42.0.13.37 inapp.1sapp.com
 42.0.13.37 inclk.com
 42.0.13.37 index.woai310.com
@@ -3783,7 +3787,6 @@
 42.0.13.37 kof98ol.qq.com
 42.0.13.37 kog.vmp.qq.com
 42.0.13.37 kr.sybspools.com
-42.0.13.37 kr.voice.gcloudcs.com
 42.0.13.37 kriping.igamecj.com
 42.0.13.37 krlobby.igamecj.com
 42.0.13.37 krping.igamecj.com
@@ -5855,7 +5858,6 @@
 42.0.13.37 sg-cdn.effectivemeasure.net
 42.0.13.37 sg.gtimg.com
 42.0.13.37 sg.qq.com
-42.0.13.37 sg.voice.gcloudcs.com
 42.0.13.37 sgg.southcn.com
 42.0.13.37 sgvip.chinahdcm.com
 42.0.13.37 sgzr.qq.com
@@ -6563,7 +6565,7 @@
 42.0.13.37 tw.alimama.cn
 42.0.13.37 tw.api.vpon.com
 42.0.13.37 tw.pub.vpon.com
-41.0.13.37 twpublic.igamecj.com
+42.0.13.37 twpublic.igamecj.com
 42.0.13.37 twlobby.igamecj.com
 42.0.13.37 twsina.allyes.com
 42.0.13.37 tx.lwinl.com
@@ -6699,7 +6701,6 @@
 42.0.13.37 url.tudown.com
 42.0.13.37 us.adserver.yahoo.com
 42.0.13.37 us.bs.serving-sys.com
-42.0.13.37 us.voice.gcloudcs.com
 42.0.13.37 user.ad-locus.com
 42.0.13.37 user.tiankongzudui.com
 42.0.13.37 usercollection.chinadaily.com.cn
@@ -7537,6 +7538,7 @@
 42.0.13.37 xf.qq.com
 42.0.13.37 xfapi.qq.com
 42.0.13.37 yi.qq.com
+42.0.13.37 xjpconfig.gcloud.qq.com
 42.0.13.37 yp.qq.com
 42.0.13.37 ysdk.qq.com
 42.0.13.37 ysdktest.qq.com
